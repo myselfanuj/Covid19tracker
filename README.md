@@ -1,7 +1,7 @@
 [![HitCount](http://hits.dwyl.io/myselfanuj/https://githubcom/myselfanuj/Augmented-Reality-Projectsgit.svg)](http://hits.dwyl.io/myselfanuj/https://githubcom/myselfanuj/Augmented-Reality-Projectsgit)
 
 
-# Covid19tracker
+# Covid19- India tracker
 Covid 19 India live tracker. Show covid cases of all state/UTs.
 
 
