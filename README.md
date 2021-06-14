@@ -9,3 +9,4 @@ Covid 19 India live tracker. Show covid cases of all state/UTs.
 # Technology Stacks 
 * Android(Java)
 * Firebase
+*
